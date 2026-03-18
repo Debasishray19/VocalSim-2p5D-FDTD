@@ -1,0 +1,16 @@
+Device Number: 0
+Device name: NVIDIA GeForce RTX 3050 6GB Laptop GPU
+Compute Capability: 8.6
+Total global memory: 6 GB
+Total constant memory: 64 KB
+Total shared memory per thread block: 48 KB
+Number of streaming multiprocessors GPU has: 20
+Total threads per block: 1024
+Total registers per block: 65536
+Warp size: 32
+Max dims of a block: 1024 x 1024 x 64
+Max dims of a grid: 2147483647 x 65535 x 65535
+Memory Clock Rate (KHz): 7001000
+Memory Bus Width (bits): 96
+Peak Memory Bandwidth: 168.024000 GB/s
+Does my device support concurrent copy and execution?: 1
