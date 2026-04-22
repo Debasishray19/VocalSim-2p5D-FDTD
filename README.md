@@ -15,7 +15,6 @@ propagation in mirror-symmetric tube geometries.
 
 <b>Note</b>: Watch the following [YouTube](https://www.youtube.com/watch?v=gsLIUtmTs8Q&t=60s) video (Time: 1.42) to install 
 <b>Vcpkg</b> and <b>boost libraries</b>. You can install <b>Eigen</b> library using the <b>Chocolatey</b> package manager.
-Build the <b>PortAudio</b> library using <b>[CMake](https://cmake.org/download/).</b>
 
 :rocket: <b>Simulation:</b>
 * Create a <b>build</b> folder inside the project folder.
